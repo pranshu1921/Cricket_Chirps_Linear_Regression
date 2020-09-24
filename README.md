@@ -13,13 +13,9 @@ This project is a part of coursework for the course 'Machine LearningA to Z' on 
 
 ## General info
 
-This report will be targeted to people who are looking to relocate to London. Inorder to finalise a neighborhood to hunt for an apartment, safety is considered as a top concern when moving to a new place. If you don’t feel safe in your own home, you’re not going to be able to enjoy living there. The crime statistics will provide an insight into this issue.
+In this example we're using the count of chirps per minute as the independent varible to then predict the dependent variable, temperature. In short, we're using a little data science to make ourselves a cricket thermometer. (You could also reverse the data and use temperature to predict the number of chirps, but it's more fun to use crickets as the thermometer itself!)
 
-Preprocessed a real world data set from Kaggle showing the London Crimes from 2008 to 2016
-
-URL: https://www.kaggle.com/jboysen/london-crime
-
-Kindly refer to the pdf report [here](https://github.com/pranshu1921/Coursera_Capstone/blob/master/Capstone%20Project%20-%20Report.pdf) for complete explanation.
+The methods shown in this example follow what's presented in the Udemy course.
 
 ## Setup
 
@@ -36,6 +32,6 @@ Kindly refer to the pdf report [here](https://github.com/pranshu1921/Coursera_Ca
 Project is: Finished
 
 ## Inspiration
-This project was part of the course ['Machine Learning A-Z'](https://www.udemy.com/course/machine-learning-a-ztm-full-course/) on [Udemy.com](https://www.udemy.com)
+This project was part of the course ['Machine Learning A-Z'](https://www.udemy.com/course/machine-learning-a-ztm-full-course/) on [Udemy.com](https://www.udemy.com), and gave an opportunity to expand my knowledge to working example for Linear Regression machine learning technique.
 ## Contact
 Feel free to contact me, send a mail to **pranshu1921@gmail.com**
